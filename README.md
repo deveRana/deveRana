@@ -51,9 +51,6 @@
   - 🌐 Designed landing pages for event management companies.
   - 📊 Built a **Dashboard** similar to [this](https://dashstack-react.netlify.app/) for interactive and dynamic data visualization.
 
-- **Ongoing Projects**:
-  - Building a feature to **launch GCP instances via API calls**.
-
 ---
 
 ### 🎯 Current Focus
