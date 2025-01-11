@@ -47,8 +47,7 @@
   - 🛍️ Built an **E-commerce platform** with an admin panel and Android app.
   - 🎵 Created a **concert booking application**.
   - 🌐 Designed landing pages for event management companies.
-- **Ongoing Projects**:
-  - Building a feature to **launch GCP instances via API calls**.
+  - 📊 Built a **Dashboard** similar to [this](https://dashstack-react.netlify.app/) for interactive and dynamic data visualization.
 
 ---
 
@@ -64,10 +63,9 @@
 
 ---
 
-### 📈 Let's Connect!
-- 🌐 [Portfolio Website](#)  
+### 📈 Let's Connect! 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rana-yograj-b90111228/)  
 - 🐦 [X (formerly Twitter)](https://x.com/ranaDeve0)  
-- 📧 Reach me: rana@example.com  
+- 📧 Reach me: developerrana0509@gmail.com  
 
 Feel free to check out my repositories and collaborate. Let's innovate together! 🚀
